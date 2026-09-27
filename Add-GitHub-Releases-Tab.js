@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Add GitHub Releases Tab
-// @namespace    https://github.com/nvbangg/nvbangg-projects
+// @namespace    https://github.com/nvbangg/nvbangg-scripts
 // @version      1.4
 // @description  Add Releases tab after Code tab on GitHub repos
 // @author       nvbangg (https://github.com/nvbangg)
